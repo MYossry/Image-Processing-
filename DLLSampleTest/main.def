@@ -1,0 +1,7 @@
+EXPORTS
+Sum @1
+SumArr @2
+ToUpper @3
+Invert @8 
+sobel @6
+histo @7
